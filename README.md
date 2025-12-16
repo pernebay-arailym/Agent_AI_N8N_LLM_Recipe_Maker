@@ -18,13 +18,6 @@ This project was focusing on **automation, LLM agents, and production-ready work
 
 ##### Problem: Users often don’t know what to cook with available ingredients, limited time, and external conditions (e.g. cold or hot weather).
 
-##### Solution 
-An AI agent that:
-- Adapts recipes based on ingredients
-- Adjusts recommendations based on weather
-- Provides clear, structured output
-- Works through a chat interface
-
 ---
 
 ### 🏗️ Technical Architecture
