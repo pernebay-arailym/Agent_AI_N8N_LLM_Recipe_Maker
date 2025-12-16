@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+
+# Docker volumes (CRITICAL)
+volumes/
+volumes/**
+
+# n8n local data
+.n8n/
+**/.n8n/
+
+# SSH keys
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+*.ppk
+
+# OS / misc
+.DS_Store
+node_modules/
+
